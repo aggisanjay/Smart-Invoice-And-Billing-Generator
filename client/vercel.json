@@ -1,17 +1,8 @@
 {
-  "routes": [
-    {
-      "src": "/api/(.*)",
-      "dest": "/server/server.js"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/client/index.html"
-    },
-    {
-  "buildCommand": "npm run build",
-  "outputDirectory": "dist"
-}
-
-  ]
-}
+    "rewrites": [
+      {
+        "source": "/(.*)",
+        "destination": "/"
+      }
+    ]
+  }
