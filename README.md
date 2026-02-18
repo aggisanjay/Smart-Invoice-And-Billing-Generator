@@ -52,16 +52,19 @@
     <td align="center"><b>Invoice List</b></td>
   </tr>
   <tr>
-    <td><img src="docs/screenshots/dashboard.png" alt="Dashboard" width="420"/></td>
-    <td><img src="docs/screenshots/invoices.png" alt="Invoices" width="420"/></td>
+    <td><img width="420" alt="image" src="https://github.com/user-attachments/assets/7d89c12b-5e09-4871-9b4d-568d0cd40a71" /></td>
+    <td><img width="420"  alt="image" src="https://github.com/user-attachments/assets/a6d35d75-ea0c-48d7-a761-24f6a59d60af" />
+</td>
   </tr>
   <tr>
     <td align="center"><b>Create Invoice</b></td>
     <td align="center"><b>Invoice Detail + PDF</b></td>
   </tr>
   <tr>
-    <td><img src="docs/screenshots/create-invoice.png" alt="Create Invoice" width="420"/></td>
-    <td><img src="docs/screenshots/invoice-detail.png" alt="Invoice Detail" width="420"/></td>
+    <td><img width="420"  alt="image" src="https://github.com/user-attachments/assets/a19c39d3-21fe-43ea-a0f8-938d0e495192" />
+</td>
+    <td><img width="420"  alt="image" src="https://github.com/user-attachments/assets/25089123-f65e-4254-b68e-688cc26b6283" />
+</td>
   </tr>
 </table>
 
