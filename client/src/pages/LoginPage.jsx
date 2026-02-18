@@ -53,9 +53,7 @@ export function LoginPage() {
           </div>
         </div>
 
-        <p style={{ textAlign: 'center', fontSize: 12, color: 'var(--txt-muted)', marginTop: 16 }}>
-          Demo: demo@example.com / password123
-        </p>
+       
       </div>
     </div>
   );
